@@ -5,7 +5,7 @@
 ---
 
 ## 📸 Visuales
-![image]()
+![image](https://github.com/saulmora8831-hub/paniko_GDL/blob/58d8c60b1185ed1b3f6559f6661fad55819fb07b/visuales.png)
 ![Demostración de Paniko](./assets/demo.gif)
 *Panel principal y módulo de control de recetas y escalado de lotes en Paniko.*
 
