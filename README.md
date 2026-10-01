@@ -1,5 +1,5 @@
 # 🍞 Paniko - Sistema de Trazabilidad y Control de Producción para Panadería
-https://github.com/saulmora8831-hub/paniko_GDL/blob/ac7ff035a83f1c447f45da7f4adda484fd5ef481/t%C3%ADtulo.png
+ !image[image_alt](https://github.com/saulmora8831-hub/paniko_GDL/blob/ac7ff035a83f1c447f45da7f4adda484fd5ef481/t%C3%ADtulo.png)
 > **Paniko** es una aplicación web integral diseñada para la gestión de producción panadera que permite registrar ingredientes, estructurar fichas técnicas, escalar recetas automáticamente, calcular costos por lote, registrar mermas y visualizar indicadores analíticos. [span_5](start_span)[span_5](end_span)[span_6](start_span)[span_6](end_span). Resuelve la falta de control automatizado de fichas técnicas, costos de materia prima y mermas por lote en panaderías artesanales, optimizando la rentabilidad y reduciendo errores manuales de cálculo[span_7](start_span)[span_7](end_span).
 
 ---
