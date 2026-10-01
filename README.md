@@ -10,7 +10,7 @@
 *Panel principal y módulo de control de recetas y escalado de lotes en Paniko.*
 ![Panel de Control de Paniko](./assets/f1.png)
 *Vista previa del panel principal para la gestión de recetas, mermas y costos por lote en Paniko.*
-
+![image_alt](https://github.com/saulmora8831-hub/paniko_GDL/blob/0a59cb4da8a621cc2128ba755a3b5a7d69610087/f1.png)
 ---
 
 ## 🛠️ Tecnologías
