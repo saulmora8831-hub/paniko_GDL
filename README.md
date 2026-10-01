@@ -5,7 +5,7 @@
 ---
 
 ## 📸 Visuales
-
+![image]()
 ![Demostración de Paniko](./assets/demo.gif)
 *Panel principal y módulo de control de recetas y escalado de lotes en Paniko.*
 
@@ -14,7 +14,7 @@
 ---
 
 ## 🛠️ Tecnologías
-
+![image]()
 - **Frontend:** HTML5, CSS3, JavaScript (JS)[span_8](start_span)[span_8](end_span)
 - **Backend:** Node.js[span_9](start_span)[span_9](end_span)
 - **Base de Datos:** MySQL[span_10](start_span)[span_10](end_span)
@@ -25,7 +25,7 @@
 ---
 
 ## 🚀 Instalación y Uso
-
+![image]()
 Sigue estos pasos para clonar y ejecutar el proyecto en tu entorno local:
 
 1. **Clonar el repositorio:**
