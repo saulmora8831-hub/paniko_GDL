@@ -25,7 +25,7 @@
 ---
 
 ## 🚀 Instalación y Uso
-![image]()
+![image](https://github.com/saulmora8831-hub/paniko_GDL/blob/baa7712fbbd628fba3fbc793ebef913225770cea/uso.png)
 Sigue estos pasos para clonar y ejecutar el proyecto en tu entorno local:
 
 1. **Clonar el repositorio:**
