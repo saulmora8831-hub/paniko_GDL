@@ -14,7 +14,7 @@
 ---
 
 ## 🛠️ Tecnologías
-![image]()
+![image](https://github.com/saulmora8831-hub/paniko_GDL/blob/f6ce2b14374bddd8b81b16906be327ccd645378b/tecnologia.png)
 - **Frontend:** HTML5, CSS3, JavaScript (JS)[span_8](start_span)[span_8](end_span)
 - **Backend:** Node.js[span_9](start_span)[span_9](end_span)
 - **Base de Datos:** MySQL[span_10](start_span)[span_10](end_span)
